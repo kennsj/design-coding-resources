@@ -41,12 +41,24 @@ A list of links to various different sources relative to designing and coding.
 
 **Stock videos**
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Coverr](http://www.coverr.co/)
+* [Distill](http://www.wedistill.io/)
+* [Pexels Videos](https://videos.pexels.com/)
+* [Mazwai](http://mazwai.com/)
+* [Fancy Footage](http://fancyfootage.com/)
+* [Vimeo](https://vimeo.com/groups/royaltyfree/videos)
+* [Life of Vids](http://www.lifeofvids.com/)
+
+**Miscellaneous**
+
+* [Create Brand Guidelines & Online Style Guides](https://frontify.com/styleguide)
+* [Online Design Learning References](https://designyear.com/the-curriculum-9517ac98ac89)
+* [A Web Designer’s Introduction to Adobe Animate CC](https://webdesign.tutsplus.com/tutorials/a-web-designers-guide-to-adobe-animate-cc--cms-28240)
+* [Web Design 101 – A free ebook from Webflow](https://ebooks.webflow.com/ebook/web-design-101)
+* [Fabulous macOS Tips & Tricks](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8)
+* [Understanding and implementing design](https://www.reddit.com/r/webdev/comments/67sprz/when_someone_wants_to_pick_up_a_new_technology/dgt4onc/)
+* [Text / color / ui design resources](https://www.reddit.com/r/webdev/comments/5rajxb/worried_im_not_artistically_creative_enough_for/dd5xb5m/)
+* [Generic design / styling resources](https://www.reddit.com/r/webdev/comments/5qs07r/everything_i_make_looks_tacky_need_advice/dd28fir/)
+
 
 
