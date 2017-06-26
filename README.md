@@ -54,9 +54,9 @@ The bolded and italicized links are particulary excellent list of resources.
 **Miscellaneous**
 
 * [Create Brand Guidelines & Online Style Guides](https://frontify.com/styleguide)
-* [Online Design Learning References](https://designyear.com/the-curriculum-9517ac98ac89)
+* [**_Online Design Learning References_**](https://designyear.com/the-curriculum-9517ac98ac89)
 * [A Web Designer’s Introduction to Adobe Animate CC](https://webdesign.tutsplus.com/tutorials/a-web-designers-guide-to-adobe-animate-cc--cms-28240)
-* [Web Design 101 – A free ebook from Webflow](https://ebooks.webflow.com/ebook/web-design-101)
+* [**_Web Design 101 – A free ebook from Webflow_**](https://ebooks.webflow.com/ebook/web-design-101)
 * [Fabulous macOS Tips & Tricks](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8)
 * [Understanding and implementing design](https://www.reddit.com/r/webdev/comments/67sprz/when_someone_wants_to_pick_up_a_new_technology/dgt4onc/)
 * [Text / color / ui design resources](https://www.reddit.com/r/webdev/comments/5rajxb/worried_im_not_artistically_creative_enough_for/dd5xb5m/)
