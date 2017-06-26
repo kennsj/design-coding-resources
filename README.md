@@ -1,5 +1,6 @@
 # Design coding resources
 A list of links to various different sources relative to designing and coding.
+The bolded and italicized 
 
 # Design
 
@@ -93,13 +94,13 @@ A list of links to various different sources relative to designing and coding.
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [Practical JavaScript – Watch and Code](https://watchandcode.com/p/practical-javascript)
 * [Learn anything – Web development](https://learn-anything.xyz/web_development)
-* [**FrontendMasters/front-end-handbook-2017**](https://github.com/FrontendMasters/front-end-handbook-2017/blob/master/SUMMARY.md)
+* [**_FrontendMasters/front-end-handbook-2017_**](https://github.com/FrontendMasters/front-end-handbook-2017/blob/master/SUMMARY.md)
 * [P1xt/p1xt-guides – Get Job ready with 13 projects, 2 courses, and 10 books](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)
-* [**kamranahmedse/developer-roadmap – Roadmap to becoming a web developer in 2017**](https://github.com/kamranahmedse/developer-roadmap)
+* [**_kamranahmedse/developer-roadmap – Roadmap to becoming a web developer in 2017_**](https://github.com/kamranahmedse/developer-roadmap)
 * [iRaul/awesome-portfolios – A curated list of Awesome Creative Portfolio Websites](https://github.com/iRaul/awesome-portfolios)
-* [**grab/front-end-guide**](https://github.com/grab/front-end-guide)
-* [**sdmg15/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome)
+* [**_grab/front-end-guide_**](https://github.com/grab/front-end-guide)
+* [**_sdmg15/Best-websites-a-programmer-should-visit_**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [**_sindresorhus/awesome_**](https://github.com/sindresorhus/awesome)
 * [Laravel and PHP Screencasts](https://laracasts.com/)
 * [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 * [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
