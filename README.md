@@ -1,6 +1,7 @@
 # Design coding resources
 A list of links to various different sources relative to designing and coding.
-The bolded and italicized 
+
+The bolded and italicized links are particulary excellent list of resources.
 
 # Design
 
