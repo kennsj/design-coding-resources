@@ -60,5 +60,53 @@ A list of links to various different sources relative to designing and coding.
 * [Text / color / ui design resources](https://www.reddit.com/r/webdev/comments/5rajxb/worried_im_not_artistically_creative_enough_for/dd5xb5m/)
 * [Generic design / styling resources](https://www.reddit.com/r/webdev/comments/5qs07r/everything_i_make_looks_tacky_need_advice/dd28fir/)
 
+# Web development
+
+**Animations**
+
+* [Animated Animals in CSS and SVG | Codrops](https://tympanus.net/codrops/2016/03/21/animated-animals-css-svg/)
+* [CSS Animation for beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
+* [animista – CSS animations on demand](http://animista.net/)
+* [The Art of UI Animations](http://markgeyer.com/pres/the-art-of-ui-animations/#/)
+
+**CSS**
+
+* [Pocket guide to writing SVG](http://svgpocketguide.com/book/)
+* [CSS3 Cheat Sheet](https://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
+* [CSS Reference – A free visual guide to CSS](http://cssreference.io/)
+* [Masking vs. Clipping: When to Use Each](https://css-tricks.com/masking-vs-clipping-use/)
+* [CSS Grid Layout – Youtube](https://www.youtube.com/playlist?list=PLMklnyuK-t1H-Y_VbyOexAsKoYF6N9LNi)
+* [Understanding the CSS Grid Layout Module](https://webdesign.tutsplus.com/series/understanding-the-css-grid-layout-module--cms-1079)
+
+**Resources / Learning**
+
+* [Website Code Generator](https://webcode.tools/)
+* [CodeSchool – Discover DevTools](http://discover-devtools.codeschool.com/)
+* [Learn to Code with Harvard’s Intro to Computer Science Course And Other Free Tech Classes](http://www.openculture.com/2013/02/learn_to_code_with_harvards_intro_to_computer_science_course_and_other_free_tech_classes_.html)
+* [Raw Materials – Reddit](https://www.reddit.com/r/web_design/comments/2nqq7m/designers_where_do_you_get_your_raw_materials/)
+* [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [Learn and understand NodeJS](https://stanleyyylau.gitbooks.io/understandnodejs/content/allNotes/4.1.html)
+* [A game for learning CSS Grid](http://cssgridgarden.com/)
+* [Chris Courses – Youtube](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA)
+* [funfunfunction – Youtube](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
+* [Web development map](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+* [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+* [Practical JavaScript – Watch and Code](https://watchandcode.com/p/practical-javascript)
+* [Learn anything – Web development](https://learn-anything.xyz/web_development)
+* [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017/blob/master/SUMMARY.md)
+* [P1xt/p1xt-guides – Get Job ready with 13 projects, 2 courses, and 10 books](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)
+* [kamranahmedse/developer-roadmap – Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+* [iRaul/awesome-portfolios – A curated list of Awesome Creative Portfolio Websites](https://github.com/iRaul/awesome-portfolios)
+* [grab/front-end-guide](https://github.com/grab/front-end-guide)
+* [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [Laravel and PHP Screencasts](https://laracasts.com/)
+* [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
+* [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
+* [Stripe Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+
+
+
+
 
 
