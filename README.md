@@ -61,6 +61,7 @@ The bolded and italicized links are particulary excellent list of resources.
 * [Understanding and implementing design](https://www.reddit.com/r/webdev/comments/67sprz/when_someone_wants_to_pick_up_a_new_technology/dgt4onc/)
 * [Text / color / ui design resources](https://www.reddit.com/r/webdev/comments/5rajxb/worried_im_not_artistically_creative_enough_for/dd5xb5m/)
 * [Generic design / styling resources](https://www.reddit.com/r/webdev/comments/5qs07r/everything_i_make_looks_tacky_need_advice/dd28fir/)
+* [kash/resources – Resources for Web Developers, Designers, and Startups](https://github.com/kash/resources)
 
 # Web development
 
