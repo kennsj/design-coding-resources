@@ -107,6 +107,7 @@ The bolded and italicized links are particulary excellent list of resources.
 * [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 * [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 * [Stripe Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+* [JavaScript libraries](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
 
 
 
